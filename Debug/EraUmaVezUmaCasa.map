@@ -1,0 +1,803 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                              EraUmaVezUmaCasa.o (__divmodhi4)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                              ls_atmega328.o (__udivmodsi4)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                              C:/Users/Gustavo/Documents/IFSC/0-Softwares/AtmelStudio/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                              EraUmaVezUmaCasa.o (__tablejump2__)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                              EraUmaVezUmaCasa.o (__do_copy_data)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                              EraUmaVezUmaCasa.o (__do_clear_bss)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+                              EraUmaVezUmaCasa.o (__iob)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+                              EraUmaVezUmaCasa.o (printf)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+                              EraUmaVezUmaCasa.o (puts)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                              c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o) (vfprintf)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen_P)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (fputc)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (__ultoa_invert)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                              c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o) (__prologue_saves__)
+c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                              c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+spiConfiguration    0x2               ls_atmega328.o
+usartReceiverBuffer
+                    0x32              ls_atmega328.o
+usartConfiguration  0x4               ls_atmega328.o
+adcConfiguration    0x3               ls_atmega328.o
+usartReceiverBufferNextWrite
+                    0x1               ls_atmega328.o
+usartReceiverBufferLength
+                    0x1               ls_atmega328.o
+lcdConfiguration    0x2               ls_hd44780.o
+usartReceiverBufferNextRead
+                    0x1               ls_atmega328.o
+__iob               0x6               c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Users/Gustavo/Documents/IFSC/0-Softwares/AtmelStudio/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 C:/Users/Gustavo/Documents/IFSC/0-Softwares/AtmelStudio/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 EraUmaVezUmaCasa.o
+ .data          0x00000000        0x0 EraUmaVezUmaCasa.o
+ .bss           0x00000000        0x0 EraUmaVezUmaCasa.o
+ .bss.transmit_bt
+                0x00000000        0x1 EraUmaVezUmaCasa.o
+ .bss.estado    0x00000000        0x1 EraUmaVezUmaCasa.o
+ .text          0x00000000        0x0 ls_atmega328.o
+ .data          0x00000000        0x0 ls_atmega328.o
+ .bss           0x00000000        0x0 ls_atmega328.o
+ .text.eepromWrite
+                0x00000000       0x12 ls_atmega328.o
+ .text.eepromRead
+                0x00000000       0x10 ls_atmega328.o
+ .text.timer1SetCounterValue
+                0x00000000       0x12 ls_atmega328.o
+ .text.timer1GetCounterValue
+                0x00000000       0x10 ls_atmega328.o
+ .text.timer1SetCompareAValue
+                0x00000000       0x12 ls_atmega328.o
+ .text.timer1GetCompareAValue
+                0x00000000       0x10 ls_atmega328.o
+ .text.timer1SetCompareBValue
+                0x00000000       0x12 ls_atmega328.o
+ .text.timer1GetCompareBValue
+                0x00000000       0x10 ls_atmega328.o
+ .text.timer1SetInputCaptureValue
+                0x00000000       0x12 ls_atmega328.o
+ .text.timer1GetInputCaptureValue
+                0x00000000       0x10 ls_atmega328.o
+ .text.spiInit  0x00000000       0xd0 ls_atmega328.o
+ .text.spiMasterTransmit
+                0x00000000        0xc ls_atmega328.o
+ .text.spiSlaveTransmit
+                0x00000000        0xa ls_atmega328.o
+ .text.adcGetConfiguration
+                0x00000000        0xe ls_atmega328.o
+ .text.adcLoadConfiguration
+                0x00000000       0xae ls_atmega328.o
+ .text.usartCheckError
+                0x00000000       0x38 ls_atmega328.o
+ .text.usartTransmit
+                0x00000000       0x10 ls_atmega328.o
+ .text.usartTransmit9bits
+                0x00000000       0x32 ls_atmega328.o
+ .text.usartReceive9bits
+                0x00000000       0x4e ls_atmega328.o
+ .text.usartClearReceptionBuffer
+                0x00000000       0x1a ls_atmega328.o
+ .text.usartAddDataToReceiverBuffer
+                0x00000000       0x6a ls_atmega328.o
+ .text.usartGetDataFromReceiverBuffer
+                0x00000000       0x44 ls_atmega328.o
+ .text.usartIsReceiverBufferEmpty
+                0x00000000        0xc ls_atmega328.o
+ .text.usartGetCurrentBaudRate
+                0x00000000       0x86 ls_atmega328.o
+ .text          0x00000000        0x0 ls_hd44780.o
+ .data          0x00000000        0x0 ls_hd44780.o
+ .bss           0x00000000        0x0 ls_hd44780.o
+ .text.lcdCommand
+                0x00000000       0x4e ls_hd44780.o
+ .text.lcdInit  0x00000000       0xee ls_hd44780.o
+ .text.lcdWrite
+                0x00000000       0x78 ls_hd44780.o
+ .text.lcdWriteStd
+                0x00000000       0xaa ls_hd44780.o
+ .data.lcdStream
+                0x00000000        0xe ls_hd44780.o
+ .debug_info    0x00000000      0x98a ls_hd44780.o
+ .debug_abbrev  0x00000000      0x21c ls_hd44780.o
+ .debug_loc     0x00000000      0x2d9 ls_hd44780.o
+ .debug_aranges
+                0x00000000       0x38 ls_hd44780.o
+ .debug_ranges  0x00000000       0x28 ls_hd44780.o
+ .debug_line    0x00000000      0x30e ls_hd44780.o
+ .debug_str     0x00000000      0x2f3 ls_hd44780.o
+ .comment       0x00000000       0x31 ls_hd44780.o
+ .debug_frame   0x00000000       0x68 ls_hd44780.o
+ COMMON         0x00000000        0x2 ls_hd44780.o
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Users/Gustavo/Documents/IFSC/0-Softwares/AtmelStudio/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD EraUmaVezUmaCasa.o
+LOAD ls_atmega328.o
+LOAD ls_hd44780.o
+START GROUP
+LOAD c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a
+LOAD C:/Users/Gustavo/Documents/IFSC/0-Softwares/AtmelStudio/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0xf92
+ *(.vectors)
+ .vectors       0x00000000       0x68 C:/Users/Gustavo/Documents/IFSC/0-Softwares/AtmelStudio/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.UsartBuffer
+                0x00000068       0x2c EraUmaVezUmaCasa.o
+                0x00000094                . = ALIGN (0x2)
+                0x00000094                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000094        0x0 linker stubs
+ *(.trampolines*)
+                0x00000094                __trampolines_end = .
+ *(.progmem*)
+                0x00000094                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000094                __ctors_start = .
+ *(.ctors)
+                0x00000094                __ctors_end = .
+                0x00000094                __dtors_start = .
+ *(.dtors)
+                0x00000094                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000094        0x0 C:/Users/Gustavo/Documents/IFSC/0-Softwares/AtmelStudio/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000094                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000094        0xc C:/Users/Gustavo/Documents/IFSC/0-Softwares/AtmelStudio/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000a0       0x16 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                0x000000a0                __do_copy_data
+ .init4         0x000000b6       0x10 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                0x000000b6                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000c6        0x8 C:/Users/Gustavo/Documents/IFSC/0-Softwares/AtmelStudio/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x000000ce        0x4 C:/Users/Gustavo/Documents/IFSC/0-Softwares/AtmelStudio/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000ce                __vector_22
+                0x000000ce                __vector_24
+                0x000000ce                __vector_12
+                0x000000ce                __bad_interrupt
+                0x000000ce                __vector_6
+                0x000000ce                __vector_3
+                0x000000ce                __vector_23
+                0x000000ce                __vector_25
+                0x000000ce                __vector_11
+                0x000000ce                __vector_13
+                0x000000ce                __vector_17
+                0x000000ce                __vector_19
+                0x000000ce                __vector_7
+                0x000000ce                __vector_5
+                0x000000ce                __vector_4
+                0x000000ce                __vector_9
+                0x000000ce                __vector_2
+                0x000000ce                __vector_8
+                0x000000ce                __vector_10
+                0x000000ce                __vector_16
+                0x000000ce                __vector_18
+                0x000000ce                __vector_20
+                0x000000d2                . = ALIGN (0x2)
+ *(.text.*)
+ .text.SelecionaCanal
+                0x000000d2       0xda EraUmaVezUmaCasa.o
+                0x000000d2                SelecionaCanal
+ .text.LuzNoturna
+                0x000001ac       0x30 EraUmaVezUmaCasa.o
+                0x000001ac                LuzNoturna
+ .text.TaQuente
+                0x000001dc       0x26 EraUmaVezUmaCasa.o
+                0x000001dc                TaQuente
+ .text.AbrirPorta
+                0x00000202       0x58 EraUmaVezUmaCasa.o
+                0x00000202                AbrirPorta
+ .text.UsartBuffer
+                0x0000025a      0x22a EraUmaVezUmaCasa.o
+                0x0000025a                UsartBuffer
+ .text.main     0x00000484      0x164 EraUmaVezUmaCasa.o
+                0x00000484                main
+ .text.__vector_14
+                0x000005e8       0x14 EraUmaVezUmaCasa.o
+                0x000005e8                __vector_14
+ .text.__vector_15
+                0x000005fc       0x48 EraUmaVezUmaCasa.o
+                0x000005fc                __vector_15
+ .text.__vector_21
+                0x00000644       0x60 EraUmaVezUmaCasa.o
+                0x00000644                __vector_21
+ .text.__vector_1
+                0x000006a4       0x72 EraUmaVezUmaCasa.o
+                0x000006a4                __vector_1
+ .text.usartTransmitStd
+                0x00000716       0x14 ls_atmega328.o
+                0x00000716                usartTransmitStd
+ .text.usartReceiveStd
+                0x0000072a       0x12 ls_atmega328.o
+                0x0000072a                usartReceiveStd
+ .text.usartInit
+                0x0000073c      0x182 ls_atmega328.o
+                0x0000073c                usartInit
+ .text.usartReceive
+                0x000008be       0x3a ls_atmega328.o
+                0x000008be                usartReceive
+ .text.libgcc.div
+                0x000008f8       0x28 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                0x000008f8                _div
+                0x000008f8                __divmodhi4
+ .text.libgcc.div
+                0x00000920       0x44 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000920                __udivmodsi4
+ .text.libgcc   0x00000964        0xc c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                0x00000964                __tablejump2__
+ .text.libgcc.div
+                0x00000970       0x28 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                0x00000970                __udivmodhi4
+ .text.avr-libc
+                0x00000998       0x2c c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+                0x00000998                printf
+ .text.avr-libc
+                0x000009c4       0x60 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+                0x000009c4                puts
+ .text.avr-libc
+                0x00000a24      0x3a4 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                0x00000a24                vfprintf
+ .text.avr-libc
+                0x00000dc8       0x16 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x00000dc8                strnlen_P
+ .text.avr-libc
+                0x00000dde       0x16 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x00000dde                strnlen
+ .text.avr-libc
+                0x00000df4       0x70 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x00000df4                fputc
+ .text.avr-libc
+                0x00000e64       0xbc c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x00000e64                __ultoa_invert
+ .text.libgcc.prologue
+                0x00000f20       0x38 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                0x00000f20                __prologue_saves__
+ .text.libgcc.prologue
+                0x00000f58       0x36 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                0x00000f58                __epilogue_restores__
+                0x00000f8e                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000f8e        0x0 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x00000f8e                _exit
+                0x00000f8e                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000f8e        0x4 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000f92                _etext = .
+
+.data           0x00800100       0xd0 load address 0x00000f92
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.channel  0x00800100        0x1 EraUmaVezUmaCasa.o
+                0x00800100                channel
+ .data.usartStream
+                0x00800101        0xe ls_atmega328.o
+                0x00800101                usartStream
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080010f       0xc1 EraUmaVezUmaCasa.o
+                                 0xc4 (size before relaxing)
+ *(.gnu.linkonce.d*)
+                0x008001d0                . = ALIGN (0x2)
+                0x008001d0                _edata = .
+                0x008001d0                PROVIDE (__data_end, .)
+
+.bss            0x008001d0       0x4c
+                0x008001d0                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.command   0x008001d0        0x1 EraUmaVezUmaCasa.o
+                0x008001d0                command
+ .bss.recebe_bt
+                0x008001d1        0x1 EraUmaVezUmaCasa.o
+                0x008001d1                recebe_bt
+ .bss.estado_porta
+                0x008001d2        0x1 EraUmaVezUmaCasa.o
+                0x008001d2                estado_porta
+ .bss.porta_aberta
+                0x008001d3        0x1 EraUmaVezUmaCasa.o
+                0x008001d3                porta_aberta
+ .bss.lux_LDR   0x008001d4        0x2 EraUmaVezUmaCasa.o
+                0x008001d4                lux_LDR
+ .bss.temp_LM35
+                0x008001d6        0x2 EraUmaVezUmaCasa.o
+                0x008001d6                temp_LM35
+ *(COMMON)
+ COMMON         0x008001d8       0x3e ls_atmega328.o
+                0x008001d8                spiConfiguration
+                0x008001da                usartReceiverBuffer
+                0x0080020c                usartConfiguration
+                0x00800210                adcConfiguration
+                0x00800213                usartReceiverBufferNextWrite
+                0x00800214                usartReceiverBufferLength
+                0x00800215                usartReceiverBufferNextRead
+ COMMON         0x00800216        0x6 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+                0x00800216                __iob
+                0x0080021c                PROVIDE (__bss_end, .)
+                0x00000f92                __data_load_start = LOADADDR (.data)
+                0x00001062                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080021c        0x0
+                0x0080021c                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080021c                PROVIDE (__noinit_end, .)
+                0x0080021c                _end = .
+                0x0080021c                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x30 EraUmaVezUmaCasa.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 ls_atmega328.o
+ .comment       0x00000030       0x31 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ .comment       0x00000030       0x31 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+ .comment       0x00000030       0x31 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+ .comment       0x00000030       0x2c c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                                 0x2d (size before relaxing)
+ .comment       0x0000005c       0x31 c:/users/gustavo/documents/ifsc/0-softwares/atmelstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Users/Gustavo/Documents/IFSC/0-Softwares/AtmelStudio/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x160
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x68 EraUmaVezUmaCasa.o
+ .debug_aranges
+                0x00000068       0xf8 ls_atmega328.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x14a1
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0xa5a EraUmaVezUmaCasa.o
+ .debug_info    0x00000a5a      0xa47 ls_atmega328.o
+
+.debug_abbrev   0x00000000      0x55f
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x2ea EraUmaVezUmaCasa.o
+ .debug_abbrev  0x000002ea      0x275 ls_atmega328.o
+
+.debug_line     0x00000000      0x652
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x2d6 EraUmaVezUmaCasa.o
+ .debug_line    0x000002d6      0x37c ls_atmega328.o
+
+.debug_frame    0x00000000      0x3ac
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x19c EraUmaVezUmaCasa.o
+ .debug_frame   0x0000019c      0x210 ls_atmega328.o
+
+.debug_str      0x00000000      0x87e
+ *(.debug_str)
+ .debug_str     0x00000000      0x4ad EraUmaVezUmaCasa.o
+                                0x4eb (size before relaxing)
+ .debug_str     0x000004ad      0x3d1 ls_atmega328.o
+                                0x716 (size before relaxing)
+
+.debug_loc      0x00000000      0x8bf
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x470 EraUmaVezUmaCasa.o
+ .debug_loc     0x00000470      0x44f ls_atmega328.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x140
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x58 EraUmaVezUmaCasa.o
+ .debug_ranges  0x00000058       0xe8 ls_atmega328.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(EraUmaVezUmaCasa.elf elf32-avr)
+LOAD linker stubs
