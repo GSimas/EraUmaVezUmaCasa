@@ -1,6 +1,9 @@
 # EraUmaVezUmaCasa
+# PT_BR
 ## Projeto de Automação Residencial
 Por Eduardo Korbes Binotto & Gustavo Simas da Silva
+
+> "O mal da grandeza é quando ela separa a consciência do poder" - **William Shakespeare**
 
 ## Controle
 Casa controlada por comunicação sem-fio bluetooth, por meio de aplicativo para dispositivos móveis Android (desenvolvido no MIT AppInventor). Controles:
@@ -20,6 +23,7 @@ Casa controlada por comunicação sem-fio bluetooth, por meio de aplicativo para
 
 **Obs**: Projeto originalmente desenvolvido para a disciplina acadêmica [Microcontroladores MCO60408](https://github.com/GSimas/MicroC) do Curso Técnico em Eletrônica Integrado ao Ensino Médio do Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina - Campus Florianópolis, Santa Catarina, Brasil.
 
+# EN_US
 ## Home automation project
 By Eduardo Korbes Binotto & Gustavo Simas da Silva
 
